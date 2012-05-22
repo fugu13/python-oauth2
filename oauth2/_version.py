@@ -1,10 +1,10 @@
 # This is the version of this source code.
 
-manual_verstr = "1.5-rsa"
+manual_verstr = "1.5"
 
 
 
-auto_build_num = "211"
+auto_build_num = "211-rsa"
 
 
 
